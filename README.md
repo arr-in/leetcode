@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/arr-in/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/arr-in/leetcode/tree/master/0040-combination-sum-ii) |
+| [0063-unique-paths-ii](https://github.com/arr-in/leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/arr-in/leetcode/tree/master/0079-word-search) |
 | [0162-find-peak-element](https://github.com/arr-in/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/arr-in/leetcode/tree/master/0198-house-robber) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/arr-in/leetcode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/arr-in/leetcode/tree/master/0198-house-robber) |
 ## String
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/arr-in/leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/arr-in/leetcode/tree/master/0079-word-search) |
 ## Hash Table
 |  |
