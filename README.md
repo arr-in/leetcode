@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arr-in/leetcode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/arr-in/leetcode/tree/master/0062-unique-paths) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/arr-in/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/arr-in/leetcode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/arr-in/leetcode/tree/master/0198-house-robber) |
 ## String
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arr-in/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/arr-in/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
