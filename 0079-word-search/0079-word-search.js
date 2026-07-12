@@ -4,37 +4,36 @@
  * @return {boolean}
  */
 var exist = function(board, word) {
-
     let rows = board.length;
     let cols = board[0].length;
-
-    function solve(x, y, index){
-        if( x < 0 || y < 0 || x >= rows || y >= cols || board[x][y] === '$') return false;
-
-        if(board[x][y] !== word[index]){
-            return false;
-        }
-
-        if(index === word.length - 1){
+    function solve(i, j, index){
+        if(index === word.length){
             return true;
         }
+        if(i < 0 || j < 0 || i >= rows || j >= cols){
+            return false;
+        }
+        if(board[i][j] === '$'){
+            return false;
+        }
+        if(board[i][j] != word[index]){
+            return false;
+        }
+        let temp = board[i][j];
+        board[i][j] = '$';
 
-        let temp = board[x][y];
+        let up = solve(i, j-1, index+1)
+        let down = solve(i, j+1, index+1)
+        let right = solve(i+1, j, index+1)
+        let left = solve(i-1, j, index+1)
 
-        board[x][y] = '$';
-
-        let down  = solve(x + 1, y, index + 1);
-        let up    = solve(x - 1, y, index + 1);
-        let right = solve(x, y + 1, index + 1);
-        let left  = solve(x, y - 1, index + 1);
-
-        board[x][y] = temp;
-        return down || up || right || left;
+        board[i][j] = temp;
+        return up || down || right || left;
     }
     for(let i = 0 ; i < rows ; i++){
         for(let j = 0 ; j < cols ; j++){
             if(board[i][j] === word[0]){
-                if(solve(i, j, 0)){
+                if(solve(i,j,0) === true){
                     return true;
                 }
             }
