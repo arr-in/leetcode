@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/arr-in/leetcode/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arr-in/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/arr-in/leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/arr-in/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/arr-in/leetcode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arr-in/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arr-in/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/arr-in/leetcode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/arr-in/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/arr-in/leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/arr-in/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/arr-in/leetcode/tree/master/0518-coin-change-ii) |
 ## String
 |  |
