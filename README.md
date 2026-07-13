@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/arr-in/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arr-in/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1901-find-a-peak-element-ii](https://github.com/arr-in/leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2305-fair-distribution-of-cookies](https://github.com/arr-in/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/arr-in/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/arr-in/leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/arr-in/leetcode/tree/master/0079-word-search) |
+| [2305-fair-distribution-of-cookies](https://github.com/arr-in/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/arr-in/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/arr-in/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/arr-in/leetcode/tree/master/0518-coin-change-ii) |
+| [2305-fair-distribution-of-cookies](https://github.com/arr-in/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## String
 |  |
 | ------- |
@@ -93,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/arr-in/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/arr-in/leetcode/tree/master/2305-fair-distribution-of-cookies) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/arr-in/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
