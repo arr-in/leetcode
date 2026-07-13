@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/arr-in/leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/arr-in/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/arr-in/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/arr-in/leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/arr-in/leetcode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/arr-in/leetcode/tree/master/0202-happy-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arr-in/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arr-in/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/arr-in/leetcode/tree/master/0202-happy-number) |
 ## Combinatorics
 |  |
 | ------- |
