@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/arr-in/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/arr-in/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0925-long-pressed-name](https://github.com/arr-in/leetcode/tree/master/0925-long-pressed-name) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arr-in/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arr-in/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/arr-in/leetcode/tree/master/0079-word-search) |
+| [0925-long-pressed-name](https://github.com/arr-in/leetcode/tree/master/0925-long-pressed-name) |
 ## Depth-First Search
 |  |
 | ------- |
