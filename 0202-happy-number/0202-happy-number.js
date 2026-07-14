@@ -3,23 +3,21 @@
  * @return {boolean}
  */
 var isHappy = function(n) {
-    let set = new Set();
-    function getnextnumber(n){
-        let number = 0;
+    let set = new Set()
+    function nextnum(n, sum){
         while(n>0){
             let digit = n%10;
-            number = number + digit * digit;
+            sum += digit*digit;
             n = Math.floor(n/10);
         }
-        return number;
+        return sum;
     }
-    while(!set.has(n)){
-        set.add(n);
-        n = getnextnumber(n);
-        if(n === 1){
-            return true;
+    while(n != 1){
+        if(set.has(n)){
+            return false;
         }
+        set.add(n);
+        n = nextnum(n, 0);
     }
-    return false;
-
+    return true;
 };
