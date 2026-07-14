@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/arr-in/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/arr-in/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/arr-in/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0120-triangle](https://github.com/arr-in/leetcode/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/arr-in/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/arr-in/leetcode/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arr-in/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/arr-in/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/arr-in/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/arr-in/leetcode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/arr-in/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/arr-in/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/arr-in/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/arr-in/leetcode/tree/master/0416-partition-equal-subset-sum) |
