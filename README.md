@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/arr-in/leetcode/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/arr-in/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arr-in/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/arr-in/leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1901-find-a-peak-element-ii](https://github.com/arr-in/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2305-fair-distribution-of-cookies](https://github.com/arr-in/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Two Pointers
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/arr-in/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/arr-in/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/arr-in/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/arr-in/leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/arr-in/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Dynamic Programming
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/arr-in/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/arr-in/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/arr-in/leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/arr-in/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Bitmask
 |  |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arr-in/leetcode/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/arr-in/leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 <!---LeetCode Topics End-->
