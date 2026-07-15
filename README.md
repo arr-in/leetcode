@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/arr-in/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/arr-in/leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/arr-in/leetcode/tree/master/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/arr-in/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/arr-in/leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/arr-in/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
