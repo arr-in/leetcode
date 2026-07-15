@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/arr-in/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/arr-in/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/arr-in/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/arr-in/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0518-coin-change-ii](https://github.com/arr-in/leetcode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arr-in/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arr-in/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/arr-in/leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/arr-in/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/arr-in/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0491-non-decreasing-subsequences](https://github.com/arr-in/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [2305-fair-distribution-of-cookies](https://github.com/arr-in/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Dynamic Programming
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arr-in/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/arr-in/leetcode/tree/master/0202-happy-number) |
+| [0491-non-decreasing-subsequences](https://github.com/arr-in/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/arr-in/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Combinatorics
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/arr-in/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0491-non-decreasing-subsequences](https://github.com/arr-in/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [2305-fair-distribution-of-cookies](https://github.com/arr-in/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Bitmask
 |  |
