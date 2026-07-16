@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arr-in/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arr-in/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/arr-in/leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/arr-in/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/arr-in/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0925-long-pressed-name](https://github.com/arr-in/leetcode/tree/master/0925-long-pressed-name) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arr-in/leetcode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/arr-in/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
