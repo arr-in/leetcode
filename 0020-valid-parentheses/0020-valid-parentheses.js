@@ -3,18 +3,17 @@
  * @return {boolean}
  */
 var isValid = function(s) {
-
     let stack = [];
-    for (let i = 0; i < s.length; i++) {
-        if (s[i] === '(' || s[i] === '{' || s[i] === '[') {
+    for(let i = 0 ; i < s.length ; i++){
+        if(s[i] == '(' || s[i] == '[' || s[i] == '{'){
             stack.push(s[i]);
-        }
-        else {
-            if (stack.length === 0) {
+        }else{
+            if(stack.length === 0){
                 return false;
             }
-            let top = stack[stack.length - 1];
-            if ( (s[i] === ')' && top !== '(') || (s[i] === '}' && top !== '{') || (s[i] === ']' && top !== '[')) {
+            let top = stack.length-1;
+            if( (s[i] === ')' && stack[top] !== '(' ) || 
+            (s[i] === ']' && stack[top] !== '[' ) || (s[i] === '}' && stack[top] !== '{' )){
                 return false;
             }
             stack.pop();
