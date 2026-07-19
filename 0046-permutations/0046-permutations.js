@@ -4,18 +4,15 @@
  */
 var permute = function(nums) {
     let ans = [];
-    function swap(i, j){
-        [nums[i], nums[j]] = [nums[j], nums[i]];
-    }
     function solve(index){
         if(index === nums.length){
             ans.push([...nums]);
             return;
         }
         for(let i = index ; i < nums.length ; i++){
-            swap(i, index);
+            [nums[i] , nums[index]] = [nums[index], nums[i]];
             solve(index+1);
-            swap(i, index);
+            [nums[i] , nums[index]] = [nums[index], nums[i]];
         }
     }
     solve(0);
