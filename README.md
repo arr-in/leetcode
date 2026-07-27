@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arr-in/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/arr-in/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/arr-in/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/arr-in/leetcode/tree/master/0062-unique-paths) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arr-in/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/arr-in/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/arr-in/leetcode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/arr-in/leetcode/tree/master/0509-fibonacci-number) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arr-in/leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/arr-in/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arr-in/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/arr-in/leetcode/tree/master/0206-reverse-linked-list) |
