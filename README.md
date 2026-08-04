@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/arr-in/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/arr-in/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/arr-in/leetcode/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/arr-in/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0925-long-pressed-name](https://github.com/arr-in/leetcode/tree/master/0925-long-pressed-name) |
 ## Depth-First Search
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/arr-in/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arr-in/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/arr-in/leetcode/tree/master/0202-happy-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/arr-in/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/arr-in/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/arr-in/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/arr-in/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arr-in/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/arr-in/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/arr-in/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/arr-in/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
