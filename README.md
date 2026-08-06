@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/arr-in/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/arr-in/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/arr-in/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/arr-in/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/arr-in/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arr-in/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/arr-in/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/arr-in/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/arr-in/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/arr-in/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/arr-in/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/arr-in/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arr-in/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Combinatorics
@@ -301,8 +303,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/arr-in/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/arr-in/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/arr-in/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/arr-in/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/arr-in/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/arr-in/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arr-in/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arr-in/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/arr-in/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
