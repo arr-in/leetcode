@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/arr-in/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arr-in/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arr-in/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/arr-in/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/arr-in/leetcode/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/arr-in/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/arr-in/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/arr-in/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arr-in/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/arr-in/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arr-in/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arr-in/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/arr-in/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -345,4 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/arr-in/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/arr-in/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/arr-in/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
