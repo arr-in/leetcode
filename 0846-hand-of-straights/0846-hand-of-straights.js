@@ -82,10 +82,10 @@ class MyMinHeap {
 var isNStraightHand = function(hand, groupSize) {
     if(hand.length % groupSize !== 0){
         return false;
-    } 
+    }
     let map = new Map();
     for(let i = 0 ; i < hand.length ; i++){
-        map.set(hand[i] , (map.get(hand[i]) || 0)+1);
+        map.set(hand[i] , (map.get(hand[i]) || 0) + 1);
     }
     let minheap = new MyMinHeap();
     for(let nums of map.keys()){
@@ -97,7 +97,7 @@ var isNStraightHand = function(hand, groupSize) {
             if(!map.has(i) || map.get(i) === 0){
                 return false;
             }
-            map.set(i , map.get(i)-1);
+            map.set(i , map.get(i) - 1);
             if(map.get(i) === 0){
                 if(i !== minheap.peek()){
                     return false;
