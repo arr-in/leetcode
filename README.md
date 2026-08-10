@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/arr-in/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/arr-in/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/arr-in/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/arr-in/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/arr-in/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/arr-in/leetcode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/arr-in/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arr-in/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/arr-in/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/arr-in/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/arr-in/leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/arr-in/leetcode/tree/master/0846-hand-of-straights) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/arr-in/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/arr-in/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/arr-in/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/arr-in/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/arr-in/leetcode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/arr-in/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arr-in/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/arr-in/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/arr-in/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/arr-in/leetcode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/arr-in/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/arr-in/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/arr-in/leetcode/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
