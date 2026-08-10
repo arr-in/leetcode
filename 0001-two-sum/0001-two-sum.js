@@ -1,11 +1,15 @@
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
 var twoSum = function(nums, target) {
-    const pairIdx = {};
-
-    for (let i = 0; i < nums.length; i++) {
-        const num = nums[i];
-        if (target - num in pairIdx) {
-            return [i, pairIdx[target - num]];
+    let map = new Map();
+    for(let i = 0 ; i < nums.length ; i++){
+        let t = target - nums[i];
+        if(map.has(t)){
+            return [i, map.get(t)];
         }
-        pairIdx[num] = i;
-    }    
+        map.set(nums[i] , i);
+    }
 };
