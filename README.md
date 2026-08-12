@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/arr-in/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arr-in/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/arr-in/leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1710-maximum-units-on-a-truck](https://github.com/arr-in/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1901-find-a-peak-element-ii](https://github.com/arr-in/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/arr-in/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2305-fair-distribution-of-cookies](https://github.com/arr-in/leetcode/tree/master/2305-fair-distribution-of-cookies) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/arr-in/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arr-in/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arr-in/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1710-maximum-units-on-a-truck](https://github.com/arr-in/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Backtracking
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/arr-in/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/arr-in/leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/arr-in/leetcode/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/arr-in/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
