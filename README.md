@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/arr-in/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/arr-in/leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/arr-in/leetcode/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/arr-in/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/arr-in/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2305-fair-distribution-of-cookies](https://github.com/arr-in/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## String
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/arr-in/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/arr-in/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/arr-in/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/arr-in/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0925-long-pressed-name](https://github.com/arr-in/leetcode/tree/master/0925-long-pressed-name) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arr-in/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Depth-First Search
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/arr-in/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/arr-in/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arr-in/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/arr-in/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/arr-in/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/arr-in/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/arr-in/leetcode/tree/master/0901-online-stock-span) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/arr-in/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/arr-in/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/arr-in/leetcode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/arr-in/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/arr-in/leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/arr-in/leetcode/tree/master/0860-lemonade-change) |
 ## Heap (Priority Queue)
@@ -399,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/arr-in/leetcode/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/arr-in/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
