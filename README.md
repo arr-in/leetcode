@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/arr-in/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/arr-in/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/arr-in/leetcode/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/arr-in/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/arr-in/leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/arr-in/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/arr-in/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/arr-in/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/arr-in/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/arr-in/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/arr-in/leetcode/tree/master/0070-climbing-stairs) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/arr-in/leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/arr-in/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/arr-in/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/arr-in/leetcode/tree/master/0621-task-scheduler) |
