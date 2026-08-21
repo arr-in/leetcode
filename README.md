@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/arr-in/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/arr-in/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/arr-in/leetcode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/arr-in/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/arr-in/leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/arr-in/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/arr-in/leetcode/tree/master/0074-search-a-2d-matrix) |
