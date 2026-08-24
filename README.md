@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/arr-in/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/arr-in/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/arr-in/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/arr-in/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/arr-in/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/arr-in/leetcode/tree/master/0070-climbing-stairs) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arr-in/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/arr-in/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/arr-in/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arr-in/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/arr-in/leetcode/tree/master/0020-valid-parentheses) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/arr-in/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arr-in/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/arr-in/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arr-in/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/arr-in/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/arr-in/leetcode/tree/master/0141-linked-list-cycle) |
